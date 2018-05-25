@@ -1,0 +1,6 @@
+# Yarn Intergrity files
+.yarn-Intergrity
+
+# dotenv 
+.env
+dist
